@@ -1,4 +1,4 @@
-# 🚀 The Unified Blind-Follow Master Roadmap
+# 🚀 The Unified Master Roadmap
 ### Backend Engineering (60%) × Global Profile Building (40%)
 **A stress-free, one-page guide to your next 15 weeks — Karachi → Canada / Europe / Global Freelance**
 
